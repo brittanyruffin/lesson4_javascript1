@@ -4,22 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+2/25/2018
 
 ### Student Name:  
-(First and Last Name)
-
+Brittany Ruffin
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+We are learning to code a monthly expense calculator to help us budget our monthly expenses.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/brittanyruffin/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to make a monthly expense calculator with code. 
+2. I learned more about how GIT works.
+3. I learned how the parseFloat function works.
 
 
 
